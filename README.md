@@ -1,6 +1,6 @@
 ## Hi, I'm PK
 
-💬 Computer Science student at UW-Madison<br/>
+💬 Computer Science and Data Science student at UW-Madison<br/>
 🔭 I’m currently building a classification model to predict soccer matches<br/>
 🚀 Learning machine learning & web dev<br/>
 🎉 ColorStack Student Ambassador<br/>
